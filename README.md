@@ -1,6 +1,7 @@
 ### Hi! I´m Christian.
 
-I’m currently itterating over on how to limit myself and my ongoing projects
+Currently iterating..
+
 
 <!--
 **Christian-Rau/Christian-Rau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
