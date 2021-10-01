@@ -3,7 +3,7 @@ I am a versatile solution-oriented IT-creative with DevOps Awareness.
 
 I live in Copenhagen Denmark, with my dog Diesel - she is a _Basset Hound Cocker Spaniel_ Mix (***Hush Basset***) - very cute!
 
-I am on an exciting diversifying journey, where I explore a large area within **web development**, **system administration** and **k8's operations**. In this context I run my own public clusters, which I also use as a lab for:
+I am on an exciting diversifying journey, where I explore a large area within **web development**, **system administration**,and **k8's operations**. In this context I run my own public clusters, which I also use as a lab for:
 - **running tests,**
 - **developing web applications**
 - **services for hosting services.**
