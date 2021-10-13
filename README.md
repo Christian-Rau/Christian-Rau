@@ -15,8 +15,7 @@ I enjoy tasks where I can combine technologies so that they end up being a **dur
 
 I am **currently** developing my **DevOps Awareness** skills, within DevOps and IDP processes ...
 
-*Best Regards Christian.*
-Cheers!*
+*Cheers!*
 
 <!--
 **Christian-Rau/Christian-Rau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
