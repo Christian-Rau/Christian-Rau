@@ -9,12 +9,6 @@ I am on an exciting diversifying journey, where I explore a large area within **
 - **services for hosting services.**
 - **setting up CI/CD pipelines.**
 
-Since I find most areas super exciting, I have a great drive, which makes me feel good in an abundance of technologies. It provides the distraction I need, which keeps me inspired all the time.
-I thrive really well when I work with innovation and development.
-I enjoy tasks where I can combine technologies so that they end up being a **durable robust solutions**.
-
-I am **currently** developing my **DevOps Awareness** skills, within DevOps and IDP processes ...
-
 *Cheers!*
 
 <!--
