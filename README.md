@@ -1,13 +1,16 @@
 ### Hi! my name is Christian
-I am a versatile solution-oriented IT-creative with DevOps Awareness.
+I am a dynamic, curious, strategic-creative digital developer, living in Copenhagen with my dog Diesel - a _Basset Hound_ and a _Cocker Spaniel_ cross breed. 
 
-I live in Copenhagen Denmark, with my dog Diesel - she is a _Basset Hound Cocker Spaniel_ Mix (***Hush Basset***) - very cute!
+Currently on an exciting diversifying journey, where I explore a large area within **web development**, **system administration**,and **k8's operations**. In this context I'm administering ONE true HA public cluster, which I also use as a lab for:
+- **testing vclusters**
+- **deploying web applications**
+- **testing microservices for hosting**
+- **setting up CI/CD pipelines**
+For frontend I am currently digging:
+- **Svelte/SvelteKit**  - again 😄
 
-I am on an exciting diversifying journey, where I explore a large area within **web development**, **system administration**,and **k8's operations**. In this context I run my own public clusters, which I also use as a lab for:
-- **running tests,**
-- **developing web applications**
-- **services for hosting services.**
-- **setting up CI/CD pipelines.**
+Currently setting up a transparent hosting provider service for web agencies and developers.
+Looking for like minded people who wants to make a difference.
 
 *Cheers!*
 
