@@ -1,7 +1,7 @@
 ### Hi! my name is Christian
 I am a dynamic, curious, strategic-creative digital developer, living in Copenhagen with my dog Diesel - a _Basset Hound_ and a _Cocker Spaniel_ cross breed. 
 
-Currently on an exciting diversifying journey, where I explore a large area within **web development**, **system administration**,and **k8's operations**. In this context I'm administering ONE true HA public cluster, which I also use as a lab for:
+Currently on an exciting diversifying journey, where I explore a large area within **web development**, **system administration**,and **k8's operations**. In this context I'm administering true HA public cluster(s), which I also use as a lab for:
 - **testing vclusters**
 - **deploying web applications**
 - **testing microservices for hosting**
