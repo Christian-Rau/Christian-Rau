@@ -15,6 +15,18 @@ Looking for like minded people who wants to make a difference.
 *Cheers!*
 
 <!--START_SECTION:waka-->
+
+```text
+From: 05 February 2022 - To: 07 March 2022
+
+Svelte                       ███████████████░░░░░░░░░░   59.47 %
+JavaScript                   ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
+Markdown                     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+HTML                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+CSS                          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
