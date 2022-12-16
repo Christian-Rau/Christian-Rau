@@ -7,10 +7,9 @@ Currently on an exciting diversifying journey, where I explore a large area with
 - **testing microservices for hosting**
 - **setting up CI/CD pipelines**
 For frontend I am currently digging:
-- **Svelte/SvelteKit**  - again 😄
+- **Svelte/SvelteKit**
 
 Currently setting up a transparent hosting provider service for web agencies and developers.
-Looking for like minded people who wants to make a difference.
 
 *Cheers!*
 
