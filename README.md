@@ -1,7 +1,5 @@
 ### Hi! my name is Christian
-I am a dynamic, curious, strategic-creative digital developer, living in Copenhagen with my dog Diesel. 
-
-Currently setting up a transparent hosting provider service for web agencies and developers.
+I am a dynamic, curious, strategic-creative digital developer, living in Copenhagen with my dog Diesel.
 
 *Cheers!*
 
