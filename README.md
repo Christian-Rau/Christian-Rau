@@ -6,7 +6,7 @@ I am a dynamic, curious, strategic-creative digital developer, living in Copenha
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
 No activity tracked
 ```
