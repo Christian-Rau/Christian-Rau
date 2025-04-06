@@ -2,7 +2,7 @@
 
 I'm a dynamic and curious digital developer with a strategic-creative approach, based in Copenhagen. Welcome to my project!
 
-## About This Project
+## Svelte 5 AI assistant
 
 I created an AI assistant with strict support for **Svelte 5**, focusing on best practices and efficient state management with runes. This project also integrates **Supabase** for backend services and features a custom, lower-level implementation of **TailwindCSS** for precise styling control.
 
