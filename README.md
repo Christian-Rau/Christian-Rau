@@ -28,7 +28,7 @@ Check out the custom GPT I built for this project [here](https://chatgpt.com/g/g
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2025 - To: 13 April 2025
+From: 12 April 2025 - To: 19 April 2025
 
 No activity tracked
 ```
