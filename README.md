@@ -1,6 +1,6 @@
 # Hi! I'm Christian 👋
 
-I'm a dynamic and curious digital developer with a strategic-creative approach, based in Copenhagen. Welcome to my project!
+I'm a dynamic and curious digital developer with a strategic-creative approach, based in Copenhagen.
 
 *Cheers!*
 
