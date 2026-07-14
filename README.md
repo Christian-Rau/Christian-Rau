@@ -7,7 +7,7 @@ I'm a dynamic and curious digital developer with a strategic-creative approach, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2026 - To: 05 July 2026
+From: 05 July 2026 - To: 12 July 2026
 
 No activity tracked
 ```
